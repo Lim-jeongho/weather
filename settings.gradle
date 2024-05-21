@@ -1,0 +1,6 @@
+rootProject.name = "weather-forecast-api"
+
+include("modules:application")
+include("modules:domain")
+include("modules:internal")
+
